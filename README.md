@@ -6,6 +6,30 @@ Sou Michel Gomes, desenvolvedor Full Stack, finalizando o curso de Sistemas de I
 Foco em Java e Spring Boot na construção de APIs REST, com experiência em aplicações full stack com Angular e banco de dados.
 Aqui compartilho projetos práticos, utilizando Docker e aplicando boas práticas de desenvolvimento, mostrando minha evolução contínua na área.
 
+<a href = "mailto:michelsillvagomes@gmail.com">
+    <img
+     alt="Gmail" 
+    title="Contato"
+    src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
+    target="_blank"
+    /> 
+ </a>
+<a href="https://www.linkedin.com/in/michel-silva-gomes/"      target="_blank">
+    <img
+    alt="Linkedin" 
+    title="Perfil Linkedin"
+    src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    target="_blank"
+    />
+</a> 
+<a href="https://github.com/Michel-Gomes?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+    
 ---
 
 ### 🤖 Linguagens e Tecnologias
