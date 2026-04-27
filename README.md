@@ -6,10 +6,10 @@ Sou Michel Gomes, desenvolvedor Full Stack, finalizando o curso de Sistemas de I
 Foco em Java e Spring Boot na construção de APIs REST, com experiência em aplicações full stack com Angular e banco de dados.
 Aqui compartilho projetos práticos, utilizando Docker e aplicando boas práticas de desenvolvimento, mostrando minha evolução contínua na área.
 
-<a href = "mailto:michelsillvagomes@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=michelsillvagomes@gmail.com">
     <img
      alt="Gmail" 
-    title="Email Contato"
+    title="Entrar em Contato"
     src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
     target="_blank"
     /> 
