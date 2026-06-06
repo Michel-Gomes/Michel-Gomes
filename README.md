@@ -146,6 +146,8 @@ Aqui compartilho projetos práticos, utilizando Docker e aplicando boas prática
 
 ---
 
+### 📊 Estatísticas
+
 <p>
     <div align="center">
       <img
