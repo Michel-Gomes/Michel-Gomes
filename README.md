@@ -22,13 +22,6 @@ Aqui compartilho projetos práticos, utilizando Docker e aplicando boas prática
     target="_blank"
     />
 </a>
-<a href="https://github.com/Michel-Gomes?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://img.shields.io/badge/GitHub-236ad3?style=for-the-badge&logo=github&logoColor=white"
-        />
-    </a>
     
 ---
 
