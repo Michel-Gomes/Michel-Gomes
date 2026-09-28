@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full Stack`**
 
-Sou Michel Gomes, desenvolvedor Full Stack, recém-formado em Sistemas de Informação.
+Sou Michel Gomes, desenvolvedor Full Stack, formado em Sistemas de Informação.
 Concluí o curso de AWS e o curso de desenvolvimento Full Stack em Java e Angular, ampliando meus conhecimentos em cloud, APIs REST com Spring Boot e aplicações front-end com Angular.
 Aqui compartilho projetos práticos, utilizando Docker e aplicando boas práticas de desenvolvimento, mostrando minha evolução contínua na área.
 
