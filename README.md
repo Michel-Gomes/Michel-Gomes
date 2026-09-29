@@ -1,10 +1,25 @@
-# 👩🏻‍💻 Michel Gomes
-
+# 👨🏻‍💻 Michel Gomes
 **`Desenvolvedor Full Stack`**
 
-Sou Michel Gomes, desenvolvedor Full Stack, formado em Sistemas de Informação.
-Concluí o curso de AWS e o curso de desenvolvimento Full Stack em Java e Angular, ampliando meus conhecimentos em cloud, APIs REST com Spring Boot e aplicações front-end com Angular.
-Aqui compartilho projetos práticos, utilizando Docker e aplicando boas práticas de desenvolvimento, mostrando minha evolução contínua na área.
+## Seja bem-vindo ao meu perfil! 👋
+
+Sou **Desenvolvedor Full Stack**, formado em **Sistemas de Informação**, com foco em **Java, Spring Boot, Angular, TypeScript e AWS**.
+
+### 🚀 O que desenvolvo
+
+* APIs REST com **Java e Spring Boot**
+* Aplicações web com **Angular e TypeScript**
+* Integração entre sistemas e serviços
+* Aplicações com **PostgreSQL e MongoDB**
+* Soluções utilizando **Docker e AWS**
+* Desenvolvimento com foco em boas práticas e evolução contínua
+
+### 🎯 Objetivo
+
+Continuar evoluindo como **Desenvolvedor Java | Full Stack**, aprimorando conhecimentos em **arquitetura de software e DevOps**, enquanto desenvolvo soluções práticas e aplicações cada vez mais completas.
+
+📫 **Contato**
+
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=michelsillvagomes@gmail.com">
     <img
@@ -14,16 +29,31 @@ Aqui compartilho projetos práticos, utilizando Docker e aplicando boas prática
     target="_blank"
     /> 
  </a>
+ 
 <a href="https://www.linkedin.com/in/michel-silva-gomes/">
-    <img
-    alt="Linkedin" 
-    title="Perfil Linkedin"
-    src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-    target="_blank"
-    />
+    <img 
+            alt="LinkedIn Seguidores"
+            title="Conecte-se comigo no LinkedIn"
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-%2B165-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2"
+        />
 </a>
-    
+
 ---
+
+### 🔹 Stats
+
+<div align="center">
+<img
+    height="180"
+    src="https://streak-stats.demolab.com/?user=Michel-Gomes&theme=react"
+/>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img
+        height="180"
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=Michel-Gomes&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react"
+    />
+</div>
+    
 
 ### 🤖 Linguagens e Tecnologias
 
